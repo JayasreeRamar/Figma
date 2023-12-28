@@ -34,6 +34,8 @@ Figma
 
 ## CODE: 
 ```
+Home page
+
 <div style="width: 100%; height: 100%; position: relative; background: rgba(255, 34.64, 246.19, 0.60)">
 <img style="width: 291px; height: 313px; left: 60px; top: 93px; position: absolute" src="https://via.placeholder.com/291x313" />
 <div style="width: 314px; height: 108px; left: 58px; top: 508px; position: absolute; background: #39E6DC"></div>
@@ -56,6 +58,8 @@ font-family: Inter;
 font-weight: 900;
 word-wrap: break-word
 
+Page2
+
 <div style="width: 100%; height: 100%; position: relative; background: #CA42AC">
 <div style="width: 353px; height: 70px; left: 28px; top: 34px; position: absolute; background: #FEA95B"></div>
 <div style="width: 598px; height: 56px; left: -94px; top: 48px; position: absolute; text-align: center; color: #1742D9; font-size: 36px; font-family: Inter; font-weight: 900; word-wrap: break-word">CULTURAL EVENTS</div>
@@ -77,6 +81,8 @@ font-size: 36px;
 font-family: Inter;
 font-weight: 900;
 word-wrap: break-word
+
+Page3
 
 <div style="width: 100%; height: 100%; position: relative; background: #9321ED">
 <div style="width: 387px; height: 92px; left: 20px; top: 27px; position: absolute; background: #D010E1"></div>
